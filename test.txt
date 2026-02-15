@@ -18,3 +18,9 @@ def test_setup():
 
 if _name_ == "_main_":
     test_setup()
+
+age =17
+if age >=18
+  print("you can vote"
+else: 
+  print("you can't vote")
